@@ -1,6 +1,6 @@
 ## Oii!, eu sou o Anderson Raulino
 
-- 🌱 I’m currently learning HTMLcss, JavaScript, React
+- 🌱 I’m currently learning HTMLcss, JavaScript, React, Python
 - 😄 Pronouns: ele/dele
 
 <div align="center">
@@ -14,6 +14,9 @@
   <img align="center" alt="Ander-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ander-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ander-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ander-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ander-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+
   </div>
   
   ##
